@@ -71,7 +71,7 @@
 | 🏠 **主博客**                                                 | [https://maxkore.bbroot.com](https://maxkore.bbroot.com)     | 技术文章、学习笔记 |
 | 📄 **文档站**                                                 | [https://docs.bbroot.com](https://docs.bbroot.com)           | 项目文档、API 参考 |
 | 📚 **本 Wiki**                                                | [https://maxkore-wiki.bbroot.com](https://maxkore-wiki.bbroot.com) | 知识库、操作手册   |
-| <img src="https://topscoder.cloud/d/minio/topscoding/71a303f4116411f1bdbe005056c00008.jpg" alt="github-logo-icon-free-vector" style="zoom:2%;" /> **GitHub** | [https://github.com/Maxkore-Geek](https://github.com/Maxkore-Geek) | 代码仓库           |
+| <img src="https://topscoder.cloud/d/minio/topscoding/71a303f4116411f1bdbe005056c00008.jpg" alt="github-logo-icon-free-vector" style="zoom:1.5%;" /> **GitHub** | [https://github.com/Maxkore-Geek](https://github.com/Maxkore-Geek) | 代码仓库           |
 
 ---
 
