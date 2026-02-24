@@ -66,12 +66,12 @@
 
 ## 🌐 相关站点
 
-| 站点          | 域名                                                         | 说明               |
-| ------------- | ------------------------------------------------------------ | ------------------ |
-| 🏠 **主博客**  | [https://maxkore.bbroot.com](https://maxkore.bbroot.com)     | 技术文章、学习笔记 |
-| 📄 **文档站**  | [https://docs.bbroot.com](https://docs.bbroot.com)           | 项目文档、API 参考 |
-| 📚 **本 Wiki** | [https://maxkore-wiki.bbroot.com](https://maxkore-wiki.bbroot.com) | 知识库、操作手册   |
-| 🐙 **GitHub**  | [https://github.com/Maxkore-Geek](https://github.com/Maxkore-Geek) | 代码仓库           |
+| 站点                                                         | 域名                                                         | 说明               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ |
+| 🏠 **主博客**                                                 | [https://maxkore.bbroot.com](https://maxkore.bbroot.com)     | 技术文章、学习笔记 |
+| 📄 **文档站**                                                 | [https://docs.bbroot.com](https://docs.bbroot.com)           | 项目文档、API 参考 |
+| 📚 **本 Wiki**                                                | [https://maxkore-wiki.bbroot.com](https://maxkore-wiki.bbroot.com) | 知识库、操作手册   |
+| <img src="D:\Desktop\github-logo-icon-free-vector.jpg" alt="github-logo-icon-free-vector" style="zoom:2%;" /> **GitHub** | [https://github.com/Maxkore-Geek](https://github.com/Maxkore-Geek) | 代码仓库           |
 
 ---
 
@@ -199,7 +199,7 @@ git push origin new-content
 
 - **GitHub**: [@Maxkore-Geek](https://github.com/Maxkore-Geek)
 - **博客**: [https://maxkore.bbroot.com](https://maxkore.bbroot.com)
-- **邮箱**: [maxkore@example.com](mailto:maxkore@example.com)
+- **邮箱**: [modsu.maxkore@qq.com](modsu.maxkore@qq.com)
 
 ---
 
