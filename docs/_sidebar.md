@@ -2,7 +2,9 @@
 
 **💻 编程技术**
 * [Python 笔记](/python/)
+  * [Python 基础语法](/python/基础语法)
 * [JavaScript 笔记](/javascript/)
+  * [JavaScript 基础语法](/javascript/基础语法) 
 
 **🐧 Linux/运维**
 * [Linux 命令速查](/linux/commands)
@@ -12,3 +14,21 @@
 * [Git 教程](/tools/git)
 * [VSCode 配置](/tools/vscode)
 * [Markdown 语法](/tools/markdown)
+
+**📝 博客维护**
+* [Hexo 博客完全操作手册](/hexo-guide/)
+  * [文章头部格式详解](/hexo-guide/#文章头部格式详解)
+  * [文章管理指南](/hexo-guide/post-management)
+  * [错误解决大全](/hexo-guide/error-solutions)
+  * [Git 工作流指南](/hexo-guide/git-workflow)
+
+**📚 项目文档**
+* [Maxkore 博客维护说明书](/project/blog-maintenance)
+* [Docs 重定向配置说明书](/project/docs-redirect)
+* [Wiki 配置说明书](/project/wiki-setup)
+
+**📖 使用指南**
+* [如何新建文章](/guides/new-post)
+* [如何修改文章](/guides/edit-post)
+* [如何删除文章](/guides/delete-post)
+* [如何部署博客](/guides/deploy-blog)
